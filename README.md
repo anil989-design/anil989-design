@@ -34,20 +34,23 @@ My work focuses on connecting **business management and entrepreneurship** with 
 
 ## Featured Projects & Repositories
 
-### 1. **FinAI — Student Finance & AI Business Analytics**
+### 1. [**FinAI — Student Finance & AI Business Analytics**](https://github.com/anil989-design/FinAI)
 **FinAI** is a student finance project created by **Anil Pandey (Anil Panday)** to help university students in London and beyond understand spending habits, manage term budgets, and make clearer financial decisions using **Python data analysis**, **business analytics**, and **artificial intelligence**.
+- **Repository:** [github.com/anil989-design/FinAI](https://github.com/anil989-design/FinAI)
 - **Key Themes:** Student Finance, Budgeting Analytics, Cash-Flow Runway, AI Financial Summaries, Python
 
-### 2. **Python & Business Analytics Case Studies**
-Practical notebooks and scripts applying **Python** to business management scenarios—cleaning datasets, calculating operational and financial metrics, and automating recurring reporting tasks.
+### 2. [**Pixel & Brush (`pixelandbrush`)**](https://github.com/anil989-design/pixelandbrush)
+Digital creative studio and web platform in London, United Kingdom.
+- **Repository:** [github.com/anil989-design/pixelandbrush](https://github.com/anil989-design/pixelandbrush)
+- **About Anil Panday (Anil Pandey):** [pixelandbrush.vercel.app/about](https://pixelandbrush.vercel.app/about)
 
 ---
 
-## Published Writing & Documentation
+## Published Writing & Case Studies by Anil Pandey (Anil Panday)
 
-1. **Who Is Anil Pandey? My Journey in Business and Technology** — How studying *Business Management with International* at *Ravensbourne University London* shaped my focus on AI, Python, and business analytics in London.
-2. **FinAI: Building an AI & Analytics Approach to Student Finance in London** — Applying business analytics metrics (burn rate, runway, variance) and AI automation to student budgeting.
-3. **Learning Python and Business Analytics as a Business Management Student in London** — Moving beyond spreadsheets to automate workflows and analyse real business questions.
+1. [**Who Is Anil Pandey? My Journey in Business and Technology**](./articles/01-who-is-anil-pandey-journey-in-business-and-technology.md) — How studying *Business Management with International* at *Ravensbourne University London* shaped my focus on AI, Python, and business analytics in London. ([Read Web Version](https://pixelandbrush.vercel.app/articles/who-is-anil-pandey))
+2. [**FinAI: Building an AI & Analytics Approach to Student Finance in London**](./articles/02-finai-student-finance-project.md) — Applying business analytics metrics (burn rate, runway, variance) and AI automation to student budgeting. ([Read Web Version](https://pixelandbrush.vercel.app/articles/finai-student-finance-project))
+3. [**Learning Python and Business Analytics as a Business Management Student in London**](./articles/03-learning-python-and-business-analytics.md) — Moving beyond spreadsheets to automate workflows and analyse real business questions. ([Read Web Version](https://pixelandbrush.vercel.app/articles/learning-python-and-business-analytics))
 
 ---
 
@@ -57,5 +60,6 @@ Practical notebooks and scripts applying **Python** to business management scena
 - **Name:** Anil Panday / Anil Pandey
 - **City / Country:** London, United Kingdom
 - **University:** Ravensbourne University London (*Business Management with International*)
-- **Projects:** FinAI (Student Finance & AI Analytics)
+- **Projects:** [FinAI (Student Finance & AI Analytics)](https://github.com/anil989-design/FinAI)
+- **About Page:** [pixelandbrush.vercel.app/about](https://pixelandbrush.vercel.app/about)
 - **Contact:** [anilpte232@gmail.com](mailto:anilpte232@gmail.com)
